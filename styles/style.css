@@ -43,10 +43,18 @@ body{
 .bottom-left{
     background-color: hsl(179, 62%, 43%);
     padding:20px;
+    width:350px;
+    color:white;
+    
 }
 /*bottom-right*/
 .bottom-right{
     background-color:hsl(179, 59%, 56%);
     padding:20px;
+    color: hsl(204, 43%, 93%);
+    width:350px;
+}
+span{
     color:hsl(204, 43%, 93%);
+    font-size: 15px;
 }
