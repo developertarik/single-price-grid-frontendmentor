@@ -1,0 +1,28 @@
+body{
+    background-color:hsl(204, 43%, 93%);
+}
+/*container*/
+.container{
+    display:flex;
+    justify-content: center;
+    margin-top: 200px;
+    flex-direction:column;
+}
+.container-top{
+    display:flex;
+    flex-direction: column;
+}
+/*top*/
+.top{
+    display:flex;
+    flex-direction: column;
+    background-color: white;
+}
+/*bottom-left*/
+.bottom-left{
+    background-color: hsl(179, 62%, 43%);
+}
+/*bottom-right*/
+.bottom-right{
+    background-color:hsl(179, 62%, 43%);
+}
