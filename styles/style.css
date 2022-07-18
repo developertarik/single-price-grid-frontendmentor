@@ -47,6 +47,14 @@ body{
     color:white;
     
 }
+button{
+    width: 250px;
+    height: 50px;
+    color:white;
+    background-color: hsl(71, 73%, 54%);
+    border: none; /*kafadan attım tuttu*/
+    font-family: "Karla",sans-serif;
+}
 /*bottom-right*/
 .bottom-right{
     background-color:hsl(179, 59%, 56%);
