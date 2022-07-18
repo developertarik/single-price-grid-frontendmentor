@@ -8,7 +8,7 @@ body{
 .container{
     display:flex;
     justify-content: center;
-    margin-top: 200px;
+    margin-top: 175px;
     flex-direction:column;
 }
 .container-top{
