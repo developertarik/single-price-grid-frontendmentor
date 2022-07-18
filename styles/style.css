@@ -1,5 +1,8 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
 body{
     background-color:hsl(204, 43%, 93%);
+    font-family: "Karla",sans-serif;
 }
 /*container*/
 .container{
@@ -23,12 +26,27 @@ body{
     display:flex;
     flex-direction: column;
     background-color: white;
+    padding: 40px;
+    padding-right: 100px;
+    display:inline;
+}
+.top-header{
+    color:hsl(179, 62%, 43%);
+}
+.top-header2{
+    color:hsl(71, 73%, 54%);
+}
+.top-para{
+    color:hsl(218, 22%, 67%);
 }
 /*bottom-left*/
 .bottom-left{
     background-color: hsl(179, 62%, 43%);
+    padding:20px;
 }
 /*bottom-right*/
 .bottom-right{
-    background-color:hsl(179, 62%, 43%);
+    background-color:hsl(179, 59%, 56%);
+    padding:20px;
+    color:hsl(204, 43%, 93%);
 }
